@@ -91,7 +91,7 @@ __END__
 
 =head1 NAME
 
-Random::AcademicTitle::CZ - Class for random Czech academic degree.
+Random::AcademicTitle::CZ - Class for random Czech academic title.
 
 =head1 SYNOPSIS
 
