@@ -18,6 +18,7 @@ meta-spec:
 name: Random-AcademicTitle-CZ
 no_index:
   directory:
+    - examples
     - inc
     - t
     - xt
