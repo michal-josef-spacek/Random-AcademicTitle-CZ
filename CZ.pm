@@ -10,10 +10,13 @@ Readonly::Array our @TITLES_AFTER => (
 	'Ph.D.',
 	'Th.D.',
 	'DiS.',
+	'DSc.',
 );
 Readonly::Array our @TITLES_AFTER_OLD => (
 	'CSc.',
 	'DrSc.',
+	'Dr.',
+	'Th.D.',
 );
 Readonly::Array our @TITLES_BEFORE => (
 	'prof.',
@@ -33,9 +36,18 @@ Readonly::Array our @TITLES_BEFORE => (
 	'MgA.',
 	'Bc.',
 	'BcA.',
+	'ThLic.',
 );
 Readonly::Array our @TITLES_BEFORE_OLD => (
+	'akad. arch.',
 	'akad. mal.',
+	'ak. soch.',
+	'MSDr.',
+	'PaedDr.',
+	'RSDr.',
+	'RTDr.',
+	'RCDr.',
+	'ThMgr.',
 );
 
 our $VERSION = 0.02;
